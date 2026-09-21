@@ -8,12 +8,6 @@ venv/
 env/
 .venv/
 
-# Banco de dados
-instance/
-*.db
-*.sqlite
-*.sqlite3
-
 # Flask
 .env
 flask_session/
